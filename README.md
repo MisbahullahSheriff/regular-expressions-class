@@ -1,1 +1,1 @@
-# This is the repository of Regular Expressions Class
+# This is the repository associated to Regular Expressions class
